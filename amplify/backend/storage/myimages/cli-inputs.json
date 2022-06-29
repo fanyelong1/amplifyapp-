@@ -1,0 +1,14 @@
+{
+  "resourceName": "myimages",
+  "policyUUID": "5236c530",
+  "bucketName": "fantest",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
